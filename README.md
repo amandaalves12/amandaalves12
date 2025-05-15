@@ -1,2 +1,2 @@
-sejam todos bem vindo ao meu perfi  
-meu nome amanda alves 
+##### olá !!! bem vindo ao meu perfil
+meu nome é amanda alves
